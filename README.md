@@ -1,10 +1,17 @@
 # Kickstarter_analysis
 Analysis of Kickstarter looking for trends and information before start a new project
-## Overview
-This report analyze the fundraising for kickstarting projects as a guideline for a Client who wants to produce a play.
+## Overview of Project
+A Client needs information for produce a play, so we will study data of kickstarting projects, looking for its goals, bakers, etc to give aur Clients  guidelines for her invest. 
+## Purpose
+This report analyze the fundraising for kickstarting projects as a guideline.
 ## Analysis and Challenges
 From the data of any kind of Kickstarting projects around the world, between 2009 and 2017, we analized projects, to find any relation between their launch date and their recaudation goals.  
-We select theather plays because that is our Client´s principal interest. We plot teather projects vs launch date, and ther outcomes.   
+We select theather plays because that is our Client´s principal interest. We plot teather projects vs launch date, and ther outcomes.  
+### Analysis of Outcomes by Launch Date
+First we get all the thater projects and display grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. 
+### Analysis of Outcomes 
+
+
 
 
 
