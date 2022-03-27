@@ -17,9 +17,10 @@ First we get all the thater projects and display grouped by month of release and
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
-Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
- First, we can conclude that May and June are in general good months to start a play, because  this monts has highest probability of being succesful, and the worst months to launch a successful play  were from November to January. But maybe there are another reasons. 
- were successful 
+Two conclusions: 
+First, we can see that although the period from April to August is where the most plays are released, May and June have the higher premieres.
+Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
+
 ### B) About Outcomes based on Goals
 One conclusion is made about the Outcomes based on Goals (2 pt).
 We can conclude that if the recaudation goal is less $15,000 USD is more probabily it become success. 
