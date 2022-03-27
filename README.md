@@ -6,14 +6,11 @@ A Client needs information for produce a play, so we will study data of kickstar
 This report analyze the fundraising for kickstarting projects as a guideline.
 ## Analysis and Challenges
 From the data of any kind of Kickstarting projects around the world, between 2009 and 2017, we analized projects, to find any relation between their launch date and their recaudation goals.  
-We select theather plays because that is our Client´s principal interest. We plot teather projects vs launch date, and ther outcomes.  
+We select theather plays because that is our Client´s principal interest.  
 ### Analysis of Outcomes by Launch Date
-First we get all the thater projects and display grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. 
+We select only the theater projects and display grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success, We plot a chart to visualize which month has most lauched (and successful) plays. Kickstarte_challenge/TeatherOutcomesByLaunchedDate.xlsx
 ### Analysis of Outcomes 
-
-
-
-
+In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.    Kickstarter.xls/OutcomesBasedOnGoal.xlsx
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
