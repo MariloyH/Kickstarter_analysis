@@ -14,15 +14,16 @@ In this case we have these Challenges:  first, it coulbe be better ir the datase
 
 ### Analysis of Outcomes by Launch Date
 We display data grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. Later we plot a chart to visualize which month has most lauched (and successful) plays. 
-
-See Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx
-### Analysis of Outcomes 
-In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
+[Outcomes by Lauch Date](Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx)
+![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/TheatherOutcomesData.png)
+### Analysis of Outcomes based on Goals
+In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   
+See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
 ![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/FundraisedGoalData.png)
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
-![T](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
+![Theater Outcomes by Launch Date](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
 
 Two conclusions are made about the Theater Outcomes by Launched Date: 
 First, we can see that although the period from April to August is where the most plays were released, May and June had more successful plays.
@@ -36,7 +37,7 @@ From the chart we can see that for plays with a goal of less than $25,000 USD th
 ### C) Limitations of the dataset
 For the purposes of this work, I think the data is enough because our Client wants informtion about past releases, but if she wants to make an invest due this results, we suggest some issues: 
 Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. We cant took the data from the Theater Outccomes by Lauched Date and calculate the percentage of successful goals (See %SuccessfulbyLaunched Date tab on Kickstarter_Challenge.xlsx) Here we can observe that the successful rate is practically the same throughout the year, with a small decrease during  December, January and August (probably due vacation period). From here,  we can suggest there is another determinant facts than the Launched Date.
-In the case of the second  limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If take a Statistical look to the specific Theatre Plays Data,  (See TeatherFundraisingStats tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $6,124.37 USD and the MEAN of the pledge is $3,160.22 USD, so we can suggest to establish a reasonable fundraising these two values.   
+In the case of the second  limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If take a Statistical look to the specific Theatre Plays Data,  (See TeatherFundraisingStats tab in Kickstarter_challenge.xlsx), we can see that the MEAN  the fundraising goal for successful plays is $6,124.37 USD and the MEAN of the pledge is $3,160.22 USD, so we can suggest to establish a reasonable fundraising these two values.   
 
 
 
