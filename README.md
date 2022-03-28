@@ -34,8 +34,7 @@ From the chart we can see that for plays with a goal of less than $25,000 USD th
 ### C) Limitations of the dataset
 For the purposes of this work, I think the data is enough because our Client wants informtion about past releases. but if she wants to make an invest due this results, we suggest some issues: 
 Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. If we look for this information (See Percentage of premieres of plays by launc date tab in Kickstarter_challenge.xlsx), we can see that this percentage is practically the same throughout the year, except for the months of December, January and August (probably due vacation period). From here we can recommend to our Client not to make his premiere in these particular months.
-In the case of the second chart, another limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look  and a BoxPlot chart, (See GoalOuliers tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $5,000 USD and is above the MEDIAN of the pledge. 
-
+In the case of the second chart, another limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look  and a BoxPlot chart, (See GoalOuliers tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $5,000 USD and is above the MEDIAN of the pledge, so maybe our can establish its goal based en these results. 
 
 
 
