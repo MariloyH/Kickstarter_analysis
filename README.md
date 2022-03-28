@@ -1,5 +1,5 @@
 # Challenge 1. Kickstarter Analysis 
-We will analize dataset of Kickstarter projects looking for trends and information before start a new project. 
+We will analize dataset of projects looking for trends and information about Theater fundraising. 
 
 ## Overview of Project
 Louise is a Client who has been produced  theater plays and now she wants information that help her in future projects. 
