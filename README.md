@@ -14,14 +14,14 @@ In this case we displayed the plays divided for its recaudation goal and outcome
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
-Two conclusions: 
-First, we can see that although the period from April to August is where the most plays are released, May and June have the higher premieres.
+Two conclusions are made about the Theater Outcomes by Launched Date (2)
+First, we can see that although the period from April to August is where the most plays are released, May and June are prefered for premieres.
 Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
-
 ### B) About Outcomes based on Goals
 One conclusion is made about the Outcomes based on Goals (2 pt).
-We can conclude that if the recaudation goal is less $15,000 USD is more probabily it become success. 
+From the chart we can see that for works with a collection goal of less than 20,000 usd there are 50 percent of successful works, and this percentage begins to decrease as higher collection goals are set, with some exceptions.
 ### C) limitations of the dataset
 There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt)
 
-.
+
+
