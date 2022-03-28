@@ -11,7 +11,7 @@ From the data of any kind of Kickstarting projects around the world, between 200
 ### Analysis of Outcomes by Launch Date
 We display data grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. Later we plot a chart to visualize which month has most lauched (and successful) plays. Kickstarte_challenge/TeatherOutcomesByLaunchedDate.xlsx
 ### Analysis of Outcomes 
-In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.    Kickstarter.xls/OutcomesBasedOnGoal.xlsx
+In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
