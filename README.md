@@ -14,7 +14,7 @@ In this case we have these Challenges:  first, it coulbe be better ir the datase
 
 ### Analysis of Outcomes by Launch Date
 We display data grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. Later we plot a chart to visualize which month has most lauched (and successful) plays. 
-[Outcomes by Lauch Date](Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx)
+[Outcomes by Lauch Date](github.com/MariloyH/Kickstarter_analysis/blob/main/Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx)
 ![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/TheatherOutcomesData.png)
 ### Analysis of Outcomes based on Goals
 In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   
