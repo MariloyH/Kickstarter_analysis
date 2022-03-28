@@ -22,8 +22,8 @@ In this case we displayed the plays divided for its recaudation goal and outcome
 ![T](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
 
 Two conclusions are made about the Theater Outcomes by Launched Date: 
-First, we can see that although the period from April to August is where the most plays are released, May and June are prefered for premieres.
-Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
+First, we can see that although the period from April to August is where the most plays were released, May and June had more successful plays.
+Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful work than failed.
 
 ### B) About Outcomes based on Goals
 ![ ](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
@@ -31,10 +31,10 @@ Second, we can also observe that although in general, a third of the plays  rele
 One conclusion is made about the Outcomes based on Goals:
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions. So we sugest to set a fundraising goal of less than this amount. 
 ### C) Limitations of the dataset
-There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt)
-Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. If we llok for this information (See Percentage of premieres of plays by launc date tab in Kickstarter_challenge.xlsx), we can see that this percentage is practically the same throughout the year, except for the months of December, January and August. From here we can recommend to our Client not to make his premiere in these particular months.
+For the purposes of this work, I think the data is enough because our Client wants informtion about past releases. But If she wants to make an invest duethis results, we suggest some issues: 
+Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. If we look for this information (See Percentage of premieres of plays by launc date tab in Kickstarter_challenge.xlsx), we can see that this percentage is practically the same throughout the year, except for the months of December, January and August. From here we can recommend to our Client not to make his premiere in these particular months.
 In the case of the second chart, another limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look (See GoalOuliers tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $5,000 USD and is above the MEDIAN of the pledge.
-So We can conclud
+
 
 
 
