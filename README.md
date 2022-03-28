@@ -21,7 +21,7 @@ Two conclusions are made about the Theater Outcomes by Launched Date (2)
 First, we can see that although the period from April to August is where the most plays are released, May and June are prefered for premieres.
 Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
 ### B) About Outcomes based on Goals
-!(https://github.com/MariloyH/Kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
+![ ](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
 
 One conclusion is made about the Outcomes based on Goals (2 pt).
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions.
