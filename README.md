@@ -14,12 +14,13 @@ In this case we have these Challenges:  first, it coulbe be better ir the datase
 
 ### Analysis of Outcomes by Launch Date
 We display data grouped by month of release and outcomes, looking if ther is a relation between plays´s launch date and its success. Later we plot a chart to visualize which month has most lauched (and successful) plays. 
+
 See Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx
 ### Analysis of Outcomes 
 In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
 
 ## Results
-### _A) About Theater Outcomes by Launch Date
+### A) About Theater Outcomes by Launch Date
 ![T](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
 
 Two conclusions are made about the Theater Outcomes by Launched Date: 
@@ -32,9 +33,9 @@ Second, we can also observe that although in general, a third of the plays  rele
 One conclusion is made about the Outcomes based on Goals:
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions. So we sugest to set a fundraising goal of less than this amount. 
 ### C) Limitations of the dataset
-For the purposes of this work, I think the data is enough because our Client wants informtion about past releases. but if she wants to make an invest due this results, we suggest some issues: 
-Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. We cant took the data from the Theater Outccomes by Lauched Date and calculate the percentage of successful goals (See %SuccessfulbyLaunched Date tab on Kickstarter_Challenge.xlsx) Here we can observe that the successful rate is practically the same throughout the year, with a small decrease during  December, January and August (probably due vacation period). From here,  we can recomend that is not so related the Outcomes due Lauched Date.
-In the case of the second chart, another limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look  and a BoxPlot chart, (See TeatherFundraisingStats tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $2,500 USD and the MEDIAN of the pledge is $1,507.30, so a good goal could be betwen these two values.   
+For the purposes of this work, I think the data is enough because our Client wants informtion about past releases, but if she wants to make an invest due this results, we suggest some issues: 
+Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. We cant took the data from the Theater Outccomes by Lauched Date and calculate the percentage of successful goals (See %SuccessfulbyLaunched Date tab on Kickstarter_Challenge.xlsx) Here we can observe that the successful rate is practically the same throughout the year, with a small decrease during  December, January and August (probably due vacation period). From here,  we can suggest there is another determinant facts than the Launched Date.
+In the case of the second  limitation is that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If take a Statistical look to the specific Theatre Plays Data,  (See TeatherFundraisingStats tab in Kickstarter_challenge.xlsx), we can see that the Median  the fundraising goal for successful plays is $6,124.37 USD and the MEAN of the pledge is $3,160.22 USD, so we can suggest to establish a reasonable fundraising these two values.   
 
 
 
