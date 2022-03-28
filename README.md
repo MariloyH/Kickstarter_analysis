@@ -15,6 +15,7 @@ In this case we displayed the plays divided for its recaudation goal and outcome
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
+
 Two conclusions are made about the Theater Outcomes by Launched Date (2)
 First, we can see that although the period from April to August is where the most plays are released, May and June are prefered for premieres.
 Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
