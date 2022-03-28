@@ -15,18 +15,21 @@ In this case we displayed the plays divided for its recaudation goal and outcome
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
-![TERRR](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
+![T](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Theather_Outcomes_vs_Launch.png)
+
 Two conclusions are made about the Theater Outcomes by Launched Date (2)
 First, we can see that although the period from April to August is where the most plays are released, May and June are prefered for premieres.
 Second, we can also observe that although in general, a third of the plays  released are not successful, May and June have a tendency to have more successful works than failed.
 ### B) About Outcomes based on Goals
+!(https://github.com/MariloyH/Kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
+
 One conclusion is made about the Outcomes based on Goals (2 pt).
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions.
-### C) limitations of the dataset
+### C) Limitations of the dataset
 There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt)
 
 Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. I would recomend this chart (see Percentage of premieres of works by release date tab in Kickstarter_challenge.xlsx). HEre we can see that this percentage is practically the same throughout the year, except for the months of December, January and August. From here we can recommend to our Client not to make his premiere in these particular months.
-In the case of the second graph, I consider that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look, we can see that the Median for  
+In the case of the second graph, I consider that although the funding goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. If we take a Statistical look, we can see that the Median for the .....  
 
 
 
