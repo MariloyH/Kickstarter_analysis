@@ -18,6 +18,7 @@ We display data grouped by month of release and outcomes, looking if ther is a r
 See Kickstart_challenge/TeatherOutcomesByLaunchedDate.xlsx
 ### Analysis of Outcomes 
 In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
+![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/FundraisedGoalData.png)
 
 ## Results
 ### A) About Theater Outcomes by Launch Date
