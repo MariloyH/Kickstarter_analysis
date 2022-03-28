@@ -18,7 +18,7 @@ We display data grouped by month of release and outcomes, looking if ther is a r
 ![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/TheatherOutcomesData.png)
 ### Analysis of Outcomes based on Goals
 In this case we displayed the plays divided for its recaudation goal and outcomes and from the we  calculate the percentage of successful, failed  an canceled plays, looking for its trends.   
-See Kickstarter.xls/OutcomesBasedOnGoal.xlsx
+See [](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Kickstarter_Challenge/OutcomesBasedOnGoal.xlsx)
 ![](https://github.com/MariloyH/Kickstarter_analysis/blob/main/FundraisedGoalData.png)
 
 ## Results
@@ -34,6 +34,7 @@ Second, we can also observe that although in general, a third of the plays  rele
 
 One conclusion is made about the Outcomes based on Goals:
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions. So we sugest to set a fundraising goal of less than this amount. 
+
 ### C) Limitations of the dataset
 For the purposes of this work, I think the data is enough because our Client wants informtion about past releases, but if she wants to make an invest due this results, we suggest some issues: 
 Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. We cant took the data from the Theater Outccomes by Lauched Date and calculate the percentage of successful goals (See %SuccessfulbyLaunched Date tab on Kickstarter_Challenge.xlsx) Here we can observe that the successful rate is practically the same throughout the year, with a small decrease during  December, January and August (probably due vacation period). From here,  we can suggest there is another determinant facts than the Launched Date.
