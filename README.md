@@ -23,8 +23,9 @@ One conclusion is made about the Outcomes based on Goals (2 pt).
 From the chart we can see that for plays with a goal of less than $25,000 USD there are 50 percent of successful, and this percentage begins to decrease as higher collection goals are set, with some exceptions.
 ### C) limitations of the dataset
 There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt)
+
 Although the first chart shows that the plays premiered in the months of May and June have fared better, it does not show the percentage of successful works. I would recomend this chart (see Percentage of premieres of works by release date tab in Kickstarter_challenge.xlsx). HEre we can see that this percentage is practically the same throughout the year, except for the months of December, January and August. From here we can recommend to our Client not to make his premiere in these particular months.
-In the case of the second graph, I consider that although the collection goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met, and therefore consider that the work is successful. 
+In the case of the second graph, I consider that although the collection goal shows that the higher it is, the more likely it is not to be successful, what we can do is that setting a more attainable goal allows it to be met. 
 
 
 
