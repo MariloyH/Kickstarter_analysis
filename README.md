@@ -8,8 +8,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ## Purpose
 This report analyze the fundraising goals a its outcomes for kickstarting project.  
 ## Analysis and Challenges
-From the data of any kind of Kickstarting projects around the world, between 2009 and 2017, we analized data to find any relation between Theater plays launch date and their recaudation goals, and we study their overcomes: if the play was successful or not. For this project, we will use Microsoft Excel 365.
-[Kickstarter_Challenge](https://github.com/MariloyH/Kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx)
+From the data of any kind of Kickstarting projects around the world, between 2009 and 2017, we analized data to find any relation between Theater plays launch date and their recaudation goals, and we study their overcomes: if the play was successful or not. For this project, we will use Microsoft Excel 365. See Kickstarter_Challenge.xlsx
 
 In this case we have these Challenges:  first, it coulbe be better ir the dataset could include data more recent, because it reached  until 2017. Second, It could help if we could know where the Client wants to produce her play so we can get more specific information. 
 
